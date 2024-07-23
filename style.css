@@ -39,3 +39,13 @@ header{
     font-size: medium;
     font-family: 'Sevillana';
 }
+
+.container{
+    display: flex;
+}
+
+.container img{
+    width: 25%;
+    height: auto;
+    margin-top: auto;
+}
