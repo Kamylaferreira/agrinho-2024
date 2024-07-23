@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
 
 :root{
-    --cor-de-fundo: #112;
-    --cor-de-texto: #334;
+    --cor-de-fundo: rgba(22, 124, 48, 0.716);
+    --cor-de-texto: rgb(10, 10, 10);
 }
 
 body{
