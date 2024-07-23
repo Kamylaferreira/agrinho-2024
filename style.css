@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+
+:root{
+    --cor-de-fundo: #112;
+    --cor-de-texto: #334;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-de-texto);
+    font-family: 'Sevillana';
+}
+
+header{
+    background-color: var(--cor-de-fundo);
+    height: auto;
+    font-size: small;
+}
+
+.container-reverse{
+    flex-direction: row-reverse;
+}
+
+.container img{
+    width: 30%;
+    height: auto;
+    margin-top: 34px;
+}
