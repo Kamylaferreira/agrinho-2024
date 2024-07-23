@@ -18,6 +18,7 @@ header{
 }
 
 .container-reverse{
+    display: flex;
     flex-direction: row-reverse;
 }
 
